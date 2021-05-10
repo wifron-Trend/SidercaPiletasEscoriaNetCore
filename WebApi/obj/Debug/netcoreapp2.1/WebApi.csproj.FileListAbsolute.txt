@@ -1,0 +1,42 @@
+C:\Users\AdminLocal\Desktop\Nueva carpeta\ANGULAR\PROYECTO\WebApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\AdminLocal\Desktop\Nueva carpeta\ANGULAR\PROYECTO\WebApi\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\AdminLocal\Desktop\Nueva carpeta\ANGULAR\PROYECTO\WebApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\AdminLocal\Desktop\Nueva carpeta\ANGULAR\PROYECTO\WebApi\obj\Debug\netcoreapp2.1\WebApi.csprojAssemblyReference.cache
+C:\Users\AdminLocal\Desktop\Nueva carpeta\ANGULAR\PROYECTO\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfoInputs.cache
+C:\Users\AdminLocal\Desktop\Nueva carpeta\ANGULAR\PROYECTO\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfo.cs
+C:\Users\AdminLocal\Desktop\Nueva carpeta\ANGULAR\PROYECTO\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cache
+C:\Users\AdminLocal\Desktop\Nueva carpeta\ANGULAR\PROYECTO\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cs
+C:\Users\AdminLocal\Desktop\Nueva carpeta\ANGULAR\PROYECTO\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\AdminLocal\Desktop\Nueva carpeta\ANGULAR\PROYECTO\WebApi\obj\Debug\netcoreapp2.1\WebApi.genruntimeconfig.cache
+C:\Users\AdminLocal\Desktop\Nueva carpeta\ANGULAR\PROYECTO\WebApi\obj\Debug\netcoreapp2.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\AdminLocal\Desktop\Nueva carpeta\ANGULAR\PROYECTO\WebApi\bin\Debug\netcoreapp2.1\i.deps.json
+C:\Users\AdminLocal\Desktop\Nueva carpeta\ANGULAR\PROYECTO\WebApi\bin\Debug\netcoreapp2.1\i.runtimeconfig.json
+C:\Users\AdminLocal\Desktop\Nueva carpeta\ANGULAR\PROYECTO\WebApi\bin\Debug\netcoreapp2.1\i.runtimeconfig.dev.json
+C:\Users\AdminLocal\Desktop\Nueva carpeta\ANGULAR\PROYECTO\WebApi\bin\Debug\netcoreapp2.1\i.dll
+C:\Users\AdminLocal\Desktop\Nueva carpeta\ANGULAR\PROYECTO\WebApi\bin\Debug\netcoreapp2.1\i.pdb
+C:\Users\AdminLocal\Desktop\Nueva carpeta\ANGULAR\PROYECTO\WebApi\obj\Debug\netcoreapp2.1\i.dll
+C:\Users\AdminLocal\Desktop\Nueva carpeta\ANGULAR\PROYECTO\WebApi\obj\Debug\netcoreapp2.1\i.pdb
+C:\1_Siderca\SidercaPiletas\WebApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\1_Siderca\SidercaPiletas\WebApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\1_Siderca\SidercaPiletas\WebApi\bin\Debug\netcoreapp2.1\appsettings.json
+C:\1_Siderca\SidercaPiletas\WebApi\bin\Debug\netcoreapp2.1\i.deps.json
+C:\1_Siderca\SidercaPiletas\WebApi\bin\Debug\netcoreapp2.1\i.runtimeconfig.json
+C:\1_Siderca\SidercaPiletas\WebApi\bin\Debug\netcoreapp2.1\i.runtimeconfig.dev.json
+C:\1_Siderca\SidercaPiletas\WebApi\bin\Debug\netcoreapp2.1\i.dll
+C:\1_Siderca\SidercaPiletas\WebApi\bin\Debug\netcoreapp2.1\i.pdb
+C:\1_Siderca\SidercaPiletas\WebApi\obj\Debug\netcoreapp2.1\WebApi.csprojAssemblyReference.cache
+C:\1_Siderca\SidercaPiletas\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfoInputs.cache
+C:\1_Siderca\SidercaPiletas\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfo.cs
+C:\1_Siderca\SidercaPiletas\WebApi\obj\Debug\netcoreapp2.1\WebApi.csproj.CoreCompileInputs.cache
+C:\1_Siderca\SidercaPiletas\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cache
+C:\1_Siderca\SidercaPiletas\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cs
+C:\1_Siderca\SidercaPiletas\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\1_Siderca\SidercaPiletas\WebApi\obj\Debug\netcoreapp2.1\i.dll
+C:\1_Siderca\SidercaPiletas\WebApi\obj\Debug\netcoreapp2.1\i.pdb
+C:\1_Siderca\SidercaPiletas\WebApi\obj\Debug\netcoreapp2.1\WebApi.genruntimeconfig.cache
+C:\Users\Trend\Desktop\WebApi\obj\Debug\netcoreapp2.1\WebApi.csprojAssemblyReference.cache
+C:\Users\Trend\Desktop\WebApi\obj\Debug\netcoreapp2.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Trend\Desktop\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cache
+C:\Users\Trend\Desktop\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cs
+C:\Users\Trend\Desktop\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfoInputs.cache
+C:\Users\Trend\Desktop\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfo.cs
